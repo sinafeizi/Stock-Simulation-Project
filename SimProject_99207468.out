@@ -1,0 +1,448 @@
+SIMAN Run Controller.
+
+360.0 Hours>
+                                      ARENA Simulation Results
+                                               tt_sina
+
+                                  Summary for Replication 1 of 1
+
+Project: Unnamed Project                                             Run execution date : 7/11/2021
+Analyst: tt_sina                                                     Model revision date: 7/11/2021
+
+Replication ended at time      : 360.0 Hours 
+Base Time Units: Hours
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+Entity 1.VATime                                 --         --         --         --          0
+Entity 1.NVATime                                --         --         --         --          0
+Entity 1.WaitTime                               --         --         --         --          0
+Entity 1.TranTime                               --         --         --         --          0
+Entity 1.OtherTime                              --         --         --         --          0
+Entity 1.TotalTime                              --         --         --         --          0
+RQW41.VATime                                .00000     (Insuf)    .00000     .00000         15    
+RQW41.NVATime                               .00000     (Insuf)    .00000     .00000         15    
+RQW41.WaitTime                              .00000     (Insuf)    .00000     .00000         15    
+RQW41.TranTime                              .00000     (Insuf)    .00000     .00000         15    
+RQW41.OtherTime                             .00000     (Insuf)    .00000     .00000         15    
+RQW41.TotalTime                             .00000     (Insuf)    .00000     .00000         15    
+RQTotalDailyDC1.VATime                      .00000     (Insuf)    .00000     .00000         14    
+RQTotalDailyDC1.NVATime                     .00000     (Insuf)    .00000     .00000         14    
+RQTotalDailyDC1.WaitTime                    .00000     (Insuf)    .00000     .00000         14    
+RQTotalDailyDC1.TranTime                    .00000     (Insuf)    .00000     .00000         14    
+RQTotalDailyDC1.OtherTime                   .00000     (Insuf)    .00000     .00000         14    
+RQTotalDailyDC1.TotalTime                   .00000     (Insuf)    .00000     .00000         14    
+RQTotalDailyDC2.VATime                      .00000     (Insuf)    .00000     .00000         14    
+RQTotalDailyDC2.NVATime                     .00000     (Insuf)    .00000     .00000         14    
+RQTotalDailyDC2.WaitTime                    .00000     (Insuf)    .00000     .00000         14    
+RQTotalDailyDC2.TranTime                    .00000     (Insuf)    .00000     .00000         14    
+RQTotalDailyDC2.OtherTime                   .00000     (Insuf)    .00000     .00000         14    
+RQTotalDailyDC2.TotalTime                   .00000     (Insuf)    .00000     .00000         14    
+RQTotalDailyDC3.VATime                      .00000     (Insuf)    .00000     .00000         14    
+RQTotalDailyDC3.NVATime                     .00000     (Insuf)    .00000     .00000         14    
+RQTotalDailyDC3.WaitTime                    .00000     (Insuf)    .00000     .00000         14    
+RQTotalDailyDC3.TranTime                    .00000     (Insuf)    .00000     .00000         14    
+RQTotalDailyDC3.OtherTime                   .00000     (Insuf)    .00000     .00000         14    
+RQTotalDailyDC3.TotalTime                   .00000     (Insuf)    .00000     .00000         14    
+RQTotalDailyDC4.VATime                      .00000     (Insuf)    .00000     .00000         14    
+RQTotalDailyDC4.NVATime                     .00000     (Insuf)    .00000     .00000         14    
+RQTotalDailyDC4.WaitTime                    .00000     (Insuf)    .00000     .00000         14    
+RQTotalDailyDC4.TranTime                    .00000     (Insuf)    .00000     .00000         14    
+RQTotalDailyDC4.OtherTime                   .00000     (Insuf)    .00000     .00000         14    
+RQTotalDailyDC4.TotalTime                   .00000     (Insuf)    .00000     .00000         14    
+RQW22.VATime                                .00000     (Insuf)    .00000     .00000         15    
+RQW22.NVATime                               .00000     (Insuf)    .00000     .00000         15    
+RQW22.WaitTime                              .00000     (Insuf)    .00000     .00000         15    
+RQW22.TranTime                              .00000     (Insuf)    .00000     .00000         15    
+RQW22.OtherTime                             .00000     (Insuf)    .00000     .00000         15    
+RQW22.TotalTime                             .00000     (Insuf)    .00000     .00000         15    
+RQW21.VATime                                .00000     (Insuf)    .00000     .00000         15    
+RQW21.NVATime                               .00000     (Insuf)    .00000     .00000         15    
+RQW21.WaitTime                              .00000     (Insuf)    .00000     .00000         15    
+RQW21.TranTime                              .00000     (Insuf)    .00000     .00000         15    
+RQW21.OtherTime                             .00000     (Insuf)    .00000     .00000         15    
+RQW21.TotalTime                             .00000     (Insuf)    .00000     .00000         15    
+CHIQ2.VATime                                .00000     (Insuf)    .00000     .00000         14    
+CHIQ2.NVATime                               .00000     (Insuf)    .00000     .00000         14    
+CHIQ2.WaitTime                              .00000     (Insuf)    .00000     .00000         14    
+CHIQ2.TranTime                              .00000     (Insuf)    .00000     .00000         14    
+CHIQ2.OtherTime                             .00000     (Insuf)    .00000     .00000         14    
+CHIQ2.TotalTime                             .00000     (Insuf)    .00000     .00000         14    
+CHIQ3.VATime                                .00000     (Insuf)    .00000     .00000         14    
+CHIQ3.NVATime                               .00000     (Insuf)    .00000     .00000         14    
+CHIQ3.WaitTime                              .00000     (Insuf)    .00000     .00000         14    
+CHIQ3.TranTime                              .00000     (Insuf)    .00000     .00000         14    
+CHIQ3.OtherTime                             .00000     (Insuf)    .00000     .00000         14    
+CHIQ3.TotalTime                             .00000     (Insuf)    .00000     .00000         14    
+CHIQ1.VATime                                .00000     (Insuf)    .00000     .00000         14    
+CHIQ1.NVATime                               .00000     (Insuf)    .00000     .00000         14    
+CHIQ1.WaitTime                              .00000     (Insuf)    .00000     .00000         14    
+CHIQ1.TranTime                              .00000     (Insuf)    .00000     .00000         14    
+CHIQ1.OtherTime                             .00000     (Insuf)    .00000     .00000         14    
+CHIQ1.TotalTime                             .00000     (Insuf)    .00000     .00000         14    
+CHIQ4.VATime                                .00000     (Insuf)    .00000     .00000         14    
+CHIQ4.NVATime                               .00000     (Insuf)    .00000     .00000         14    
+CHIQ4.WaitTime                              .00000     (Insuf)    .00000     .00000         14    
+CHIQ4.TranTime                              .00000     (Insuf)    .00000     .00000         14    
+CHIQ4.OtherTime                             .00000     (Insuf)    .00000     .00000         14    
+CHIQ4.TotalTime                             .00000     (Insuf)    .00000     .00000         14    
+SS Week DC4.VATime                          .00000     (Insuf)    .00000     .00000          2    
+SS Week DC4.NVATime                         .00000     (Insuf)    .00000     .00000          2    
+SS Week DC4.WaitTime                        .00000     (Insuf)    .00000     .00000          2    
+SS Week DC4.TranTime                        .00000     (Insuf)    .00000     .00000          2    
+SS Week DC4.OtherTime                       .00000     (Insuf)    .00000     .00000          2    
+SS Week DC4.TotalTime                       .00000     (Insuf)    .00000     .00000          2    
+SS Week DC1.VATime                          .00000     (Insuf)    .00000     .00000          2    
+SS Week DC1.NVATime                         .00000     (Insuf)    .00000     .00000          2    
+SS Week DC1.WaitTime                        .00000     (Insuf)    .00000     .00000          2    
+SS Week DC1.TranTime                        .00000     (Insuf)    .00000     .00000          2    
+SS Week DC1.OtherTime                       .00000     (Insuf)    .00000     .00000          2    
+SS Week DC1.TotalTime                       .00000     (Insuf)    .00000     .00000          2    
+SS Week DC2.VATime                          .00000     (Insuf)    .00000     .00000          2    
+SS Week DC2.NVATime                         .00000     (Insuf)    .00000     .00000          2    
+SS Week DC2.WaitTime                        .00000     (Insuf)    .00000     .00000          2    
+SS Week DC2.TranTime                        .00000     (Insuf)    .00000     .00000          2    
+SS Week DC2.OtherTime                       .00000     (Insuf)    .00000     .00000          2    
+SS Week DC2.TotalTime                       .00000     (Insuf)    .00000     .00000          2    
+SS Week DC3.VATime                          .00000     (Insuf)    .00000     .00000          2    
+SS Week DC3.NVATime                         .00000     (Insuf)    .00000     .00000          2    
+SS Week DC3.WaitTime                        .00000     (Insuf)    .00000     .00000          2    
+SS Week DC3.TranTime                        .00000     (Insuf)    .00000     .00000          2    
+SS Week DC3.OtherTime                       .00000     (Insuf)    .00000     .00000          2    
+SS Week DC3.TotalTime                       .00000     (Insuf)    .00000     .00000          2    
+CHIQ_PDC_ND.VATime                          .00000     (Insuf)    .00000     .00000          2    
+CHIQ_PDC_ND.NVATime                         .00000     (Insuf)    .00000     .00000          2    
+CHIQ_PDC_ND.WaitTime                        .00000     (Insuf)    .00000     .00000          2    
+CHIQ_PDC_ND.TranTime                        .00000     (Insuf)    .00000     .00000          2    
+CHIQ_PDC_ND.OtherTime                       .00000     (Insuf)    .00000     .00000          2    
+CHIQ_PDC_ND.TotalTime                       .00000     (Insuf)    .00000     .00000          2    
+CHIQ_PDC_ED.VATime                          .00000     (Insuf)    .00000     .00000         14    
+CHIQ_PDC_ED.NVATime                         .69454     (Insuf)    .00000     9.7235         14    
+CHIQ_PDC_ED.WaitTime                        .00000     (Insuf)    .00000     .00000         14    
+CHIQ_PDC_ED.TranTime                        .00000     (Insuf)    .00000     .00000         14    
+CHIQ_PDC_ED.OtherTime                       .00000     (Insuf)    .00000     .00000         14    
+CHIQ_PDC_ED.TotalTime                       .69454     (Insuf)    .00000     9.7235         14    
+RQP.VATime                                  .00000     .00000     .00000     .00000      47988    
+RQP.NVATime                                 .00000     .00000     .00000     .00000      47988    
+RQP.WaitTime                                12.260     .34680     .00000     24.000      47988    
+RQP.TranTime                                .00000     .00000     .00000     .00000      47988    
+RQP.OtherTime                               .00000     .00000     .00000     .00000      47988    
+RQP.TotalTime                               12.260     .34680     .00000     24.000      47988    
+RQW18.VATime                                .00000     (Insuf)    .00000     .00000         15    
+RQW18.NVATime                               .00000     (Insuf)    .00000     .00000         15    
+RQW18.WaitTime                              .00000     (Insuf)    .00000     .00000         15    
+RQW18.TranTime                              .00000     (Insuf)    .00000     .00000         15    
+RQW18.OtherTime                             .00000     (Insuf)    .00000     .00000         15    
+RQW18.TotalTime                             .00000     (Insuf)    .00000     .00000         15    
+RQW19.VATime                                .00000     (Insuf)    .00000     .00000         15    
+RQW19.NVATime                               .00000     (Insuf)    .00000     .00000         15    
+RQW19.WaitTime                              .00000     (Insuf)    .00000     .00000         15    
+RQW19.TranTime                              .00000     (Insuf)    .00000     .00000         15    
+RQW19.OtherTime                             .00000     (Insuf)    .00000     .00000         15    
+RQW19.TotalTime                             .00000     (Insuf)    .00000     .00000         15    
+RQW12.VATime                                .00000     (Insuf)    .00000     .00000         15    
+RQW12.NVATime                               .00000     (Insuf)    .00000     .00000         15    
+RQW12.WaitTime                              .00000     (Insuf)    .00000     .00000         15    
+RQW12.TranTime                              .00000     (Insuf)    .00000     .00000         15    
+RQW12.OtherTime                             .00000     (Insuf)    .00000     .00000         15    
+RQW12.TotalTime                             .00000     (Insuf)    .00000     .00000         15    
+RQW13.VATime                                .00000     (Insuf)    .00000     .00000         15    
+RQW13.NVATime                               .00000     (Insuf)    .00000     .00000         15    
+RQW13.WaitTime                              .00000     (Insuf)    .00000     .00000         15    
+RQW13.TranTime                              .00000     (Insuf)    .00000     .00000         15    
+RQW13.OtherTime                             .00000     (Insuf)    .00000     .00000         15    
+RQW13.TotalTime                             .00000     (Insuf)    .00000     .00000         15    
+RQW11.VATime                                .00000     (Insuf)    .00000     .00000         15    
+RQW11.NVATime                               .00000     (Insuf)    .00000     .00000         15    
+RQW11.WaitTime                              .00000     (Insuf)    .00000     .00000         15    
+RQW11.TranTime                              .00000     (Insuf)    .00000     .00000         15    
+RQW11.OtherTime                             .00000     (Insuf)    .00000     .00000         15    
+RQW11.TotalTime                             .00000     (Insuf)    .00000     .00000         15    
+RQW16.VATime                                .00000     (Insuf)    .00000     .00000         15    
+RQW16.NVATime                               .00000     (Insuf)    .00000     .00000         15    
+RQW16.WaitTime                              .00000     (Insuf)    .00000     .00000         15    
+RQW16.TranTime                              .00000     (Insuf)    .00000     .00000         15    
+RQW16.OtherTime                             .00000     (Insuf)    .00000     .00000         15    
+RQW16.TotalTime                             .00000     (Insuf)    .00000     .00000         15    
+RQW17.VATime                                .00000     (Insuf)    .00000     .00000         15    
+RQW17.NVATime                               .00000     (Insuf)    .00000     .00000         15    
+RQW17.WaitTime                              .00000     (Insuf)    .00000     .00000         15    
+RQW17.TranTime                              .00000     (Insuf)    .00000     .00000         15    
+RQW17.OtherTime                             .00000     (Insuf)    .00000     .00000         15    
+RQW17.TotalTime                             .00000     (Insuf)    .00000     .00000         15    
+RQW14.VATime                                .00000     (Insuf)    .00000     .00000         15    
+RQW14.NVATime                               .00000     (Insuf)    .00000     .00000         15    
+RQW14.WaitTime                              .00000     (Insuf)    .00000     .00000         15    
+RQW14.TranTime                              .00000     (Insuf)    .00000     .00000         15    
+RQW14.OtherTime                             .00000     (Insuf)    .00000     .00000         15    
+RQW14.TotalTime                             .00000     (Insuf)    .00000     .00000         15    
+RQW15.VATime                                .00000     (Insuf)    .00000     .00000         15    
+RQW15.NVATime                               .00000     (Insuf)    .00000     .00000         15    
+RQW15.WaitTime                              .00000     (Insuf)    .00000     .00000         15    
+RQW15.TranTime                              .00000     (Insuf)    .00000     .00000         15    
+RQW15.OtherTime                             .00000     (Insuf)    .00000     .00000         15    
+RQW15.TotalTime                             .00000     (Insuf)    .00000     .00000         15    
+RQW34.VATime                                .00000     (Insuf)    .00000     .00000         15    
+RQW34.NVATime                               .00000     (Insuf)    .00000     .00000         15    
+RQW34.WaitTime                              .00000     (Insuf)    .00000     .00000         15    
+RQW34.TranTime                              .00000     (Insuf)    .00000     .00000         15    
+RQW34.OtherTime                             .00000     (Insuf)    .00000     .00000         15    
+RQW34.TotalTime                             .00000     (Insuf)    .00000     .00000         15    
+RQW35.VATime                                .00000     (Insuf)    .00000     .00000         14    
+RQW35.NVATime                               .00000     (Insuf)    .00000     .00000         14    
+RQW35.WaitTime                              .00000     (Insuf)    .00000     .00000         14    
+RQW35.TranTime                              .00000     (Insuf)    .00000     .00000         14    
+RQW35.OtherTime                             .00000     (Insuf)    .00000     .00000         14    
+RQW35.TotalTime                             .00000     (Insuf)    .00000     .00000         14    
+RQW36.VATime                                .00000     (Insuf)    .00000     .00000         14    
+RQW36.NVATime                               .00000     (Insuf)    .00000     .00000         14    
+RQW36.WaitTime                              .00000     (Insuf)    .00000     .00000         14    
+RQW36.TranTime                              .00000     (Insuf)    .00000     .00000         14    
+RQW36.OtherTime                             .00000     (Insuf)    .00000     .00000         14    
+RQW36.TotalTime                             .00000     (Insuf)    .00000     .00000         14    
+RQW31.VATime                                .00000     (Insuf)    .00000     .00000         14    
+RQW31.NVATime                               .00000     (Insuf)    .00000     .00000         14    
+RQW31.WaitTime                              .00000     (Insuf)    .00000     .00000         14    
+RQW31.TranTime                              .00000     (Insuf)    .00000     .00000         14    
+RQW31.OtherTime                             .00000     (Insuf)    .00000     .00000         14    
+RQW31.TotalTime                             .00000     (Insuf)    .00000     .00000         14    
+RQW32.VATime                                .00000     (Insuf)    .00000     .00000         15    
+RQW32.NVATime                               .00000     (Insuf)    .00000     .00000         15    
+RQW32.WaitTime                              .00000     (Insuf)    .00000     .00000         15    
+RQW32.TranTime                              .00000     (Insuf)    .00000     .00000         15    
+RQW32.OtherTime                             .00000     (Insuf)    .00000     .00000         15    
+RQW32.TotalTime                             .00000     (Insuf)    .00000     .00000         15    
+RQW33.VATime                                .00000     (Insuf)    .00000     .00000         15    
+RQW33.NVATime                               .00000     (Insuf)    .00000     .00000         15    
+RQW33.WaitTime                              .00000     (Insuf)    .00000     .00000         15    
+RQW33.TranTime                              .00000     (Insuf)    .00000     .00000         15    
+RQW33.OtherTime                             .00000     (Insuf)    .00000     .00000         15    
+RQW33.TotalTime                             .00000     (Insuf)    .00000     .00000         15    
+Hold 36.Queue.WaitingTime                   15.375     (Insuf)    .00000     24.000         96    
+Hold 26.Queue.WaitingTime                   14.951     (Insuf)    4.3887     24.000        234    
+Hold 16.Queue.WaitingTime                   12.141     (Insuf)    1.1421     24.000        189    
+Hold 28.Queue.WaitingTime                   16.303     (Insuf)    8.9690     24.000         40    
+Hold 38.Queue.WaitingTime                   15.443     (Insuf)    7.1255     24.000         72    
+Hold 18.Queue.WaitingTime                   11.967     1.0229     .10498     24.000       5590    
+Hold 44.Queue.WaitingTime                   11.239     (Insuf)    1.0319     24.000        210    
+Hold 34.Queue.WaitingTime                   16.222     (Insuf)    5.0000     24.000        198    
+Hold 24.Queue.WaitingTime                   14.090     (Insuf)    1.0000     24.000        242    
+Hold 14.Queue.WaitingTime                   12.069     (Corr)     .09964     24.000       9637    
+Hold 45.Queue.WaitingTime                   12.050     .92792     .00539     24.000       5340    
+Hold 35.Queue.WaitingTime                   12.137     (Corr)     .14882     24.000       7174    
+Hold 25.Queue.WaitingTime                   13.658     (Insuf)    5.0299     24.000        253    
+Hold 15.Queue.WaitingTime                   12.162     (Corr)     .32471     24.000        462    
+Hold 39.Queue.WaitingTime                   13.742     (Insuf)    1.1124     24.000        168    
+Hold 29.Queue.WaitingTime                   13.375     (Insuf)    1.0000     24.000         72    
+Hold 19.Queue.WaitingTime                   15.613     (Insuf)    2.2682     24.000         12    
+Hold 32.Queue.WaitingTime                   13.550     (Insuf)    .00000     24.000        260    
+Hold 42.Queue.WaitingTime                   14.732     (Insuf)    .30055     24.000         63    
+Hold 22.Queue.WaitingTime                   11.980     (Corr)     .03105     24.000       3199    
+Hold 12.Queue.WaitingTime                   10.157     (Insuf)    1.8846     24.000         54    
+Hold 9.Queue.WaitingTime                    16.549     (Insuf)    8.4978     24.000         56    
+Hold 8.Queue.WaitingTime                    12.040     (Corr)     .00582     24.000       7701    
+Hold 7.Queue.WaitingTime                    12.809     (Insuf)    2.0000     24.000        231    
+Hold 6.Queue.WaitingTime                    11.690     (Corr)     .52057     24.000        360    
+Hold 5.Queue.WaitingTime                    17.216     (Insuf)    1.5859     24.000         56    
+Hold 4.Queue.WaitingTime                    16.468     (Insuf)    2.9745     24.000         64    
+Hold 3.Queue.WaitingTime                    13.191     1.6751     .25189     24.000       1239    
+Hold 2.Queue.WaitingTime                    20.750     (Insuf)    14.000     24.000         36    
+Hold 1.Queue.WaitingTime                    9.1111     (Insuf)    .00000     24.000        144    
+Hold 43.Queue.WaitingTime                   12.965     (Insuf)    .16170     24.000         72    
+Hold 33.Queue.WaitingTime                   15.181     (Insuf)    7.0000     24.000         99    
+Hold 23.Queue.WaitingTime                   13.600     (Insuf)    1.0000     24.000        220    
+Hold 13.Queue.WaitingTime                   13.750     (Insuf)    1.0000     24.000        108    
+Hold 27.Queue.WaitingTime                   17.747     (Insuf)    6.5579     24.000        259    
+Hold 37.Queue.WaitingTime                   11.886     (Corr)     .01082     24.000       2105    
+Hold 17.Queue.WaitingTime                   7.3571     (Insuf)    2.0000     24.000        210    
+Hold 31.Queue.WaitingTime                   13.188     (Corr)     1.1000     24.000        624    
+Hold 41.Queue.WaitingTime                   11.812     (Insuf)    .44030     24.000        126    
+Hold 21.Queue.WaitingTime                   11.222     (Insuf)    1.0000     24.000         72    
+Hold 11.Queue.WaitingTime                   16.000     (Insuf)    12.000     24.000         84    
+Hold 40.Queue.WaitingTime                   12.500     (Insuf)    .00000     24.000        184    
+Hold 30.Queue.WaitingTime                   12.556     (Insuf)    1.8177     24.000        224    
+Hold 20.Queue.WaitingTime                   15.374     (Insuf)    4.0990     24.000        301    
+Hold 10.Queue.WaitingTime                   12.677     (Insuf)    3.0139     24.000        256    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+Time Persistent 2                           .00000     (Insuf)    .00000     .00000     .00000    
+IQ_cost                                     1.2104E+05 (Insuf)    1.0873E+05 1.3374E+05 1.0873E+05
+Entity 1.WIP                                .00000     (Insuf)    .00000     .00000     .00000    
+RQW41.WIP                                   .00000     (Insuf)    .00000     1.0000     .00000    
+RQTotalDailyDC1.WIP                         .00000     (Insuf)    .00000     1.0000     .00000    
+RQTotalDailyDC2.WIP                         .00000     (Insuf)    .00000     1.0000     .00000    
+RQTotalDailyDC3.WIP                         .00000     (Insuf)    .00000     1.0000     .00000    
+RQTotalDailyDC4.WIP                         .00000     (Insuf)    .00000     1.0000     .00000    
+RQW22.WIP                                   .00000     (Insuf)    .00000     1.0000     .00000    
+RQW21.WIP                                   .00000     (Insuf)    .00000     1.0000     .00000    
+CHIQ2.WIP                                   .00000     (Insuf)    .00000     1.0000     .00000    
+CHIQ3.WIP                                   .00000     (Insuf)    .00000     1.0000     .00000    
+CHIQ1.WIP                                   .00000     (Insuf)    .00000     1.0000     .00000    
+CHIQ4.WIP                                   .00000     (Insuf)    .00000     1.0000     .00000    
+SS Week DC4.WIP                             .00000     (Insuf)    .00000     1.0000     .00000    
+SS Week DC1.WIP                             .00000     (Insuf)    .00000     1.0000     .00000    
+SS Week DC2.WIP                             .00000     (Insuf)    .00000     1.0000     .00000    
+SS Week DC3.WIP                             .00000     (Insuf)    .00000     1.0000     .00000    
+CHIQ_PDC_ND.WIP                             .00000     (Insuf)    .00000     1.0000     .00000    
+CHIQ_PDC_ED.WIP                             .02701     (Insuf)    .00000     1.0000     .00000    
+RQP.WIP                                     1652.6     (Corr)     .00000     3634.0     616.00    
+RQW18.WIP                                   .00000     (Insuf)    .00000     1.0000     .00000    
+RQW19.WIP                                   .00000     (Insuf)    .00000     1.0000     .00000    
+RQW12.WIP                                   .00000     (Insuf)    .00000     1.0000     .00000    
+RQW13.WIP                                   .00000     (Insuf)    .00000     1.0000     .00000    
+RQW11.WIP                                   .00000     (Insuf)    .00000     1.0000     .00000    
+RQW16.WIP                                   .00000     (Insuf)    .00000     1.0000     .00000    
+RQW17.WIP                                   .00000     (Insuf)    .00000     1.0000     .00000    
+RQW14.WIP                                   .00000     (Insuf)    .00000     1.0000     .00000    
+RQW15.WIP                                   .00000     (Insuf)    .00000     1.0000     .00000    
+RQW34.WIP                                   .00000     (Insuf)    .00000     1.0000     .00000    
+RQW35.WIP                                   .00000     (Insuf)    .00000     1.0000     .00000    
+RQW36.WIP                                   .00000     (Insuf)    .00000     1.0000     .00000    
+RQW31.WIP                                   .00000     (Insuf)    .00000     1.0000     .00000    
+RQW32.WIP                                   .00000     (Insuf)    .00000     1.0000     .00000    
+RQW33.WIP                                   .00000     (Insuf)    .00000     1.0000     .00000    
+Hold 36.Queue.NumberInQueue                 4.1000     (Insuf)    .00000     12.000     .00000    
+Hold 26.Queue.NumberInQueue                 9.7182     (Insuf)    .00000     26.000     .00000    
+Hold 16.Queue.NumberInQueue                 6.3742     (Insuf)    .00000     21.000     .00000    
+Hold 28.Queue.NumberInQueue                 2.0589     (Insuf)    .00000     5.0000     5.0000    
+Hold 38.Queue.NumberInQueue                 3.1712     (Insuf)    .00000     9.0000     9.0000    
+Hold 18.Queue.NumberInQueue                 185.83     (Corr)     .00000     377.00     .00000    
+Hold 44.Queue.NumberInQueue                 6.5561     (Insuf)    .00000     21.000     .00000    
+Hold 34.Queue.NumberInQueue                 8.9222     (Insuf)    .00000     22.000     .00000    
+Hold 24.Queue.NumberInQueue                 9.4722     (Insuf)    .00000     22.000     .00000    
+Hold 14.Queue.NumberInQueue                 323.09     (Corr)     .00000     644.00     .00000    
+Hold 45.Queue.NumberInQueue                 178.75     (Corr)     .00000     372.00     .00000    
+Hold 35.Queue.NumberInQueue                 241.86     (Corr)     .00000     493.00     .00000    
+Hold 25.Queue.NumberInQueue                 9.5989     (Insuf)    .00000     23.000     .00000    
+Hold 15.Queue.NumberInQueue                 15.608     (Insuf)    .00000     84.000     .00000    
+Hold 39.Queue.NumberInQueue                 6.5390     (Insuf)    .00000     21.000     21.000    
+Hold 29.Queue.NumberInQueue                 2.6750     (Insuf)    .00000     9.0000     .00000    
+Hold 19.Queue.NumberInQueue                 .52044     (Insuf)    .00000     4.0000     .00000    
+Hold 32.Queue.NumberInQueue                 9.7861     (Insuf)    .00000     26.000     .00000    
+Hold 42.Queue.NumberInQueue                 2.5782     (Insuf)    .00000     9.0000     .00000    
+Hold 22.Queue.NumberInQueue                 106.45     (Corr)     .00000     224.00     .00000    
+Hold 12.Queue.NumberInQueue                 1.5237     (Insuf)    .00000     18.000     .00000    
+Hold 9.Queue.NumberInQueue                  2.5743     (Insuf)    .00000     16.000     .00000    
+Hold 8.Queue.NumberInQueue                  257.56     (Corr)     .00000     527.00     .00000    
+Hold 7.Queue.NumberInQueue                  8.2194     (Insuf)    .00000     22.000     .00000    
+Hold 6.Queue.NumberInQueue                  11.690     (Insuf)    .00000     72.000     .00000    
+Hold 5.Queue.NumberInQueue                  2.6781     (Insuf)    .00000     7.0000     .00000    
+Hold 4.Queue.NumberInQueue                  2.9276     (Insuf)    .00000     16.000     .00000    
+Hold 3.Queue.NumberInQueue                  45.400     (Insuf)    .00000     126.00     .00000    
+Hold 2.Queue.NumberInQueue                  2.0750     (Insuf)    .00000     9.0000     .00000    
+Hold 1.Queue.NumberInQueue                  3.6444     (Insuf)    .00000     16.000     .00000    
+Hold 43.Queue.NumberInQueue                 2.5931     (Insuf)    .00000     8.0000     .00000    
+Hold 33.Queue.NumberInQueue                 4.1750     (Insuf)    .00000     9.0000     .00000    
+Hold 23.Queue.NumberInQueue                 8.3111     (Insuf)    .00000     22.000     .00000    
+Hold 13.Queue.NumberInQueue                 4.1250     (Insuf)    .00000     9.0000     .00000    
+Hold 27.Queue.NumberInQueue                 12.768     (Insuf)    .00000     37.000     .00000    
+Hold 37.Queue.NumberInQueue                 74.574     (Corr)     .00000     155.00     150.00    
+Hold 17.Queue.NumberInQueue                 4.2916     (Insuf)    .00000     15.000     .00000    
+Hold 31.Queue.NumberInQueue                 22.859     (Insuf)    .00000     52.000     .00000    
+Hold 41.Queue.NumberInQueue                 4.1344     (Insuf)    .00000     35.000     .00000    
+Hold 21.Queue.NumberInQueue                 2.2444     (Insuf)    .00000     8.0000     .00000    
+Hold 11.Queue.NumberInQueue                 3.7333     (Insuf)    .00000     28.000     .00000    
+Hold 40.Queue.NumberInQueue                 7.1555     (Insuf)    .00000     23.000     23.000    
+Hold 30.Queue.NumberInQueue                 7.8131     (Insuf)    .00000     28.000     .00000    
+Hold 20.Queue.NumberInQueue                 12.855     (Insuf)    .00000     43.000     .00000    
+Hold 10.Queue.NumberInQueue                 9.0148     (Insuf)    .00000     32.000     .00000    
+
+                                             COUNTERS
+
+Identifier                                    Count   Limit
+_____________________________________________________________
+
+Counter 3                                         0  Infinite
+Counter 2                                         0  Infinite
+Counter 1                                         0  Infinite
+Counter 7                                         2  Infinite
+Counter 6                                         1  Infinite
+Counter 5                                        13  Infinite
+Counter 4                                         0  Infinite
+Counter 8                                         0  Infinite
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+Entity 1.NumberIn                           .00000    
+Entity 1.NumberOut                          .00000    
+RQW41.NumberIn                              15.000    
+RQW41.NumberOut                             15.000    
+RQTotalDailyDC1.NumberIn                    14.000    
+RQTotalDailyDC1.NumberOut                   14.000    
+RQTotalDailyDC2.NumberIn                    14.000    
+RQTotalDailyDC2.NumberOut                   14.000    
+RQTotalDailyDC3.NumberIn                    14.000    
+RQTotalDailyDC3.NumberOut                   14.000    
+RQTotalDailyDC4.NumberIn                    14.000    
+RQTotalDailyDC4.NumberOut                   14.000    
+RQW22.NumberIn                              15.000    
+RQW22.NumberOut                             15.000    
+RQW21.NumberIn                              15.000    
+RQW21.NumberOut                             15.000    
+CHIQ2.NumberIn                              14.000    
+CHIQ2.NumberOut                             14.000    
+CHIQ3.NumberIn                              14.000    
+CHIQ3.NumberOut                             14.000    
+CHIQ1.NumberIn                              14.000    
+CHIQ1.NumberOut                             14.000    
+CHIQ4.NumberIn                              14.000    
+CHIQ4.NumberOut                             14.000    
+SS Week DC4.NumberIn                        2.0000    
+SS Week DC4.NumberOut                       2.0000    
+SS Week DC1.NumberIn                        2.0000    
+SS Week DC1.NumberOut                       2.0000    
+SS Week DC2.NumberIn                        2.0000    
+SS Week DC2.NumberOut                       2.0000    
+SS Week DC3.NumberIn                        2.0000    
+SS Week DC3.NumberOut                       2.0000    
+CHIQ_PDC_ND.NumberIn                        2.0000    
+CHIQ_PDC_ND.NumberOut                       2.0000    
+CHIQ_PDC_ED.NumberIn                        14.000    
+CHIQ_PDC_ED.NumberOut                       14.000    
+RQP.NumberIn                                48604.    
+RQP.NumberOut                               47988.    
+RQW18.NumberIn                              15.000    
+RQW18.NumberOut                             15.000    
+RQW19.NumberIn                              15.000    
+RQW19.NumberOut                             15.000    
+RQW12.NumberIn                              15.000    
+RQW12.NumberOut                             15.000    
+RQW13.NumberIn                              15.000    
+RQW13.NumberOut                             15.000    
+RQW11.NumberIn                              15.000    
+RQW11.NumberOut                             15.000    
+RQW16.NumberIn                              15.000    
+RQW16.NumberOut                             15.000    
+RQW17.NumberIn                              15.000    
+RQW17.NumberOut                             15.000    
+RQW14.NumberIn                              15.000    
+RQW14.NumberOut                             15.000    
+RQW15.NumberIn                              15.000    
+RQW15.NumberOut                             15.000    
+RQW34.NumberIn                              15.000    
+RQW34.NumberOut                             15.000    
+RQW35.NumberIn                              14.000    
+RQW35.NumberOut                             14.000    
+RQW36.NumberIn                              14.000    
+RQW36.NumberOut                             14.000    
+RQW31.NumberIn                              14.000    
+RQW31.NumberOut                             14.000    
+RQW32.NumberIn                              15.000    
+RQW32.NumberOut                             15.000    
+RQW33.NumberIn                              15.000    
+RQW33.NumberOut                             15.000    
+System.NumberOut                            48391.    
+
+
+Simulation run time: 0.15 minutes.
+Simulation run complete.

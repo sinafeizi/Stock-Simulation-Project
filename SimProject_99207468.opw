@@ -1,0 +1,316 @@
+[RESOURCES]
+[VARIABLES]
+TDRQDC3
+Create P332.NumberOut
+Create P331.NumberOut
+Create P134.NumberOut
+Create P133.NumberOut
+Create P132.NumberOut
+Create P131.NumberOut
+P112TRQ
+TDRQDC2
+RQ181 is ok.NumberOut
+TDRQDC1
+Collet Total Daily Request DC4.NumberOut
+Collet Total Daily Request DC3.NumberOut
+Collet Total Daily Request DC2.NumberOut
+Collet Total Daily Request DC1.NumberOut
+TDRQDC4
+W31TRQ
+Create W17.NumberOut
+P343TRQ
+P133TRQ
+Dispose W22.NumberOut
+Dispose W21.NumberOut
+Create P362.NumberOut
+Create P361.NumberOut
+Create P162.NumberOut
+Create P161.NumberOut
+DC3TOR
+W13TRQ
+EOQPDC
+P353TRQ
+P342TRQ
+P152TRQ
+W12TRQ
+TWRQ
+W21DRQ
+W15TRQ
+P413TRQ
+Dispose W19.NumberOut
+Dispose W17.NumberOut
+Dispose W18.NumberOut
+Dispose W16.NumberOut
+Dispose W15.NumberOut
+Dispose W14.NumberOut
+Dispose W13.NumberOut
+Dispose W12.NumberOut
+Dispose W11.NumberOut
+P114TRQ
+W35DRQ
+P312TRQ
+W14DRQ
+SSDC1
+SSDC2
+SSDC3
+SSDC4
+Dispose 10.NumberOut
+Z5
+W34TRQ
+Z4
+Z3
+Z2
+Z1
+Check IQ4 everyday.NumberOut
+Check IQ3 everyday.NumberOut
+Check IQ2 everyday.NumberOut
+Check IQ1 everyday.NumberOut
+DC4 inventory sufficient.NumberOut True
+DC3 inventory sufficient.NumberOut True
+DC2 inventory sufficient.NumberOut True
+DC1 inventory sufficient.NumberOut True
+RQ322 is ok.NumberOut
+RQ321 is ok.NumberOut
+RQ221 is ok.NumberOut
+RQ122 is ok.NumberOut
+RQ121 is ok.NumberOut
+Z44
+W17DRQ
+W34DRQ
+W41DRQ
+NO_PDC
+TWRQDC2
+TWRQDC3
+TWRQDC1
+TWRQDC4
+P113TRQ
+Create P312.NumberOut
+Create P311.NumberOut
+Create P415.NumberOut
+Create P414.NumberOut
+Create P413.NumberOut
+Create P412.NumberOut
+Create P411.NumberOut
+Create P212.NumberOut
+Create P211.NumberOut
+Create P114.NumberOut
+Create P113.NumberOut
+Create P112.NumberOut
+Create P111.NumberOut
+Emergency ordering of PDC is ok.NumberOut
+W41TRQ
+RQ173 is ok.NumberOut
+RQ172 is ok.NumberOut
+RQ171 is ok.NumberOut
+P341TRQ
+RQ362 is ok.NumberOut
+RQ361 is ok.NumberOut
+RQ162 is ok.NumberOut
+RQ161 is ok.NumberOut
+W11TRQ
+P131TRQ
+P212TRQ
+Z22
+Dispose W31.NumberOut
+Dispose W36.NumberOut
+Dispose W35.NumberOut
+Dispose W34.NumberOut
+Dispose W33.NumberOut
+Dispose W32.NumberOut
+W31DRQ
+W19DRQ
+Create P322.NumberOut
+Create P321.NumberOut
+Create P221.NumberOut
+Create P122.NumberOut
+Create P121.NumberOut
+W36DRQ
+Create P173.NumberOut
+Create P172.NumberOut
+Create P171.NumberOut
+P134TRQ
+P193TRQ
+W11DRQ
+W36TRQ
+W18DRQ
+P111TRQ
+Create W19.NumberOut
+waiting for suppliers od NO.NumberOut
+waiting for suppliers of EO.NumberOut
+Create W31.NumberOut
+Create W41.NumberOut
+Create W21.NumberOut
+Create W11.NumberOut
+W18TRQ
+NOQPDC
+P151TRQ
+P321TRQ
+Dispose 11.NumberOut
+P414TRQ
+Collect TRQDC4 is OK.NumberOut
+Collect TRQDC3 is OK.NumberOut
+Collect TRQDC2 is OK.NumberOut
+Collect TRQDC1 is OK.NumberOut
+Normal ordering PDC is OK.NumberOut
+EO_PDC
+IQ1
+IQ3
+Create P353.NumberOut
+Create P352.NumberOut
+Create P351.NumberOut
+Create P152.NumberOut
+Create P151.NumberOut
+IQ2
+IQ4
+calculate total tally cost.NumberOut
+W33TRQ
+Create P343.NumberOut
+Create P342.NumberOut
+Create P341.NumberOut
+Create P142.NumberOut
+Create P141.NumberOut
+W13DRQ
+P322TRQ
+DC4TOR
+P311TRQ
+Create W18.NumberOut
+RQ332 is ok.NumberOut
+RQ331 is ok.NumberOut
+P211TRQ
+RQ134 is ok.NumberOut
+RQ133 is ok.NumberOut
+RQ132 is ok.NumberOut
+RQ131 is ok.NumberOut
+NOODC4
+SSPDC_N
+P192TRQ
+NOODC1
+NOODC2
+NOODC3
+P331TRQ
+Check IQ PDC everyday is OK.NumberOut
+Dispose W41.NumberOut
+SSPDC_E
+P362TRQ
+P411TRQ
+DC4 inventory is sufficient.NumberOut
+DC3 inventory is sufficient.NumberOut
+DC2 inventory is sufficient.NumberOut
+DC1 inventory is sufficient.NumberOut
+DC4 ordering times.NumberOut
+DC3 ordering times.NumberOut
+DC2 ordering times.NumberOut
+DC1 ordering times.NumberOut
+RQ193 is ok.NumberOut
+RQ192 is ok.NumberOut
+RQ191 is ok.NumberOut
+P142TRQ
+P181TRQ
+Dispose 12.NumberOut
+P121TRQ
+IQ_PDC
+W32DRQ
+RQ343 is ok.NumberOut
+RQ342 is ok.NumberOut
+RQ341 is ok.NumberOut
+W22DRQ
+RQ142 is ok.NumberOut
+RQ141 is ok.NumberOut
+DC2TOR
+Create W33.NumberOut
+Create W13.NumberOut
+P412TRQ
+W16DRQ
+P141TRQ
+QMAX4
+QMAX1
+W19TRQ
+QMAX2
+Dispose 13.NumberOut
+total tally cost calculated.NumberOut
+QMAX3
+W16TRQ
+Decide if PDC IQ is sufficient before normal ordering.NumberOut False
+Decide if PDC IQ is sufficient before normal ordering.NumberOut True
+Create W36.NumberOut
+Create W16.NumberOut
+Z11
+P361TRQ
+P171TRQ
+Create W35.NumberOut
+Create W15.NumberOut
+P132TRQ
+P172TRQ
+P415TRQ
+Create W32.NumberOut
+Create W22.NumberOut
+Create W12.NumberOut
+waiting for suppliers od NO.NumberIn
+waiting for suppliers of EO.NumberIn
+Create W34.NumberOut
+Create W14.NumberOut
+RQ353 is ok.NumberOut
+RQ352 is ok.NumberOut
+RQ351 is ok.NumberOut
+RQ152 is ok.NumberOut
+RQ151 is ok.NumberOut
+NOE
+W33DRQ
+P352TRQ
+P161TRQ
+W22TRQ
+W21TRQ
+W32TRQ
+NON
+Normal ordering of PDC every week.NumberOut
+Create P181.NumberOut
+tally_cost
+RQ312 is ok.NumberOut
+RQ311 is ok.NumberOut
+RQ415 is ok.NumberOut
+RQ414 is ok.NumberOut
+RQ413 is ok.NumberOut
+RQ412 is ok.NumberOut
+RQ411 is ok.NumberOut
+RQ212 is ok.NumberOut
+RQ211 is ok.NumberOut
+RQ114 is ok.NumberOut
+RQ113 is ok.NumberOut
+RQ112 is ok.NumberOut
+RQ111 is ok.NumberOut
+Z55
+W14TRQ
+P122TRQ
+DC4 inventory sufficient.NumberOut False
+Set Safe Storage of DC4 every week.NumberOut
+DC3 inventory sufficient.NumberOut False
+Set Safe Storage of DC3 every week.NumberOut
+DC2 inventory sufficient.NumberOut False
+Set Safe Storage of DC2 every week.NumberOut
+DC1 inventory sufficient.NumberOut False
+Set Safe Storage of DC1 every week.NumberOut
+P221TRQ
+DC1TOR
+P332TRQ
+Z33
+W12DRQ
+P351TRQ
+QMAXPDC
+Check IQ PDC everyday.NumberOut
+OQ3
+W35TRQ
+OQ2
+OQ1
+Decide IQ PDC is sufficient.NumberOut False
+OQ4
+P162TRQ
+Create P193.NumberOut
+Create P192.NumberOut
+Create P191.NumberOut
+W17TRQ
+W15DRQ
+PDC IQ is sufficient.NumberOut
+P191TRQ
+Decide IQ PDC is sufficient.NumberOut True
+TDRQ
+P173TRQ
